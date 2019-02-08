@@ -3,7 +3,7 @@
 $site-nav-height:    56px;
 $site-nav-height-sm: 44px;
 $nav-width-bp:       640px;
-$nav-color:          $orange-dark;
+$nav-color:          $white;
 
 
 // global site nav height
@@ -18,7 +18,8 @@ $nav-color:          $orange-dark;
 
 .site-nav {
   position: relative;
-  background-color: rgba($nav-color,.8);
+  background-color: $g-blue; /* For browsers that do not support gradients */
+  background-image: linear-gradient(60deg, $g-blue, $g-yellow); /* Standard syntax (must be last) */
   text-align: center;
 
   // NEEDS EXPLAINING LIKE THE CORE NAV OFFSET
@@ -94,8 +95,8 @@ $nav-color:          $orange-dark;
     color: $white;
     transition: background-color $transition-time ease;
     white-space: nowrap;
-    &.is-current      { background-color: rgba($nav-color,.66); }
-    .no-touch &:hover { background-color: rgba($nav-color,1); }
+    &.is-current      { background-color: rgba($nav-color,.3); }
+    .no-touch &:hover { background-color: rgba($nav-color,.2); }
     @include bp($nav-width-bp){
       padding-left: $s0;
       padding-right: $s0;

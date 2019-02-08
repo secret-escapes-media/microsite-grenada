@@ -1,32 +1,8 @@
 - id: one
-  title: Section one
-  nav-title: One
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+  title: Traumhafte Kulisse
+  nav-title: Strände
+  description: "Kilometerlange feinste weiße Sandstrände umgeben von türkisblauem warmen Wasser: Die Strände entlang der Küste Grenadas versprechen den perfekten Karibik Traum. Der bekannteste Strand der Insel ist der Grand Anse La Roche. Die große Bucht in der Halbmondform diente als Filmkulisse für den Hollywood-Film 'Piraten der Karibik'. Trotz seiner Prominenz und umgeben von vielen Hotels und Restaurants, ist der Strand oft menschenleer. Die Morne Rouge Bay, mit ihrem flach abfallenden Wasser und den ruhigen Wellen, ist ein idealer Ort für Familienurlaube. Die krumm gewachsenen Palmen spenden Schatten und Spaß zum Klettern. Direkt bei Carricaou liegt der Strand mit dem wohlklingenden Namen Paradise Beach. Zahlreiche kleine Bars im Stil der Kokoshütten mit Hängematten zwischen den Palmen geben dem Ort seinen idyllischen Namen."
 
-  pois:
-
-    title: points of interest title
-    items:
-
-      - id: one-first-poi
-        title: One First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: one-second-poi
-        title: One Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: one-third-poi
-        title: One Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: one-fourth-poi
-        title: One Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: one-fifth-poi
-        title: One Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
 
 
 
@@ -35,34 +11,11 @@
 
 
 - id: two
-  title: Section Two
-  nav-title: Two
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+  title: Flora & Fauna
+  nav-title: Flora & Fauna
+  description: "Entstanden aus Vulkanen, die schon lange inaktiv sind, säumt sich rund um den Kratersee Grand Etang Lake, tropischer Regenwald. In der Gebirgslandschaft des Grand Etang Forest Reserve, treffen Sie seltene Tier-und Pflanzenarten, wie das berühmte Mona Äffchen. Während Ihrer Wandertour durch die grüne Lunge pausieren Sie zur Erfrischung, an einem der vielen Wasserfälle der Insel. An der Küste von St. Patrick liegt der riesige Levera National Park. Den Strand nutzen die geschützten Meeresschildkröten zur Ei-Ablage. Das Naturspektakel wird streng bewacht: Nur mit fachkundiger Führung dürfen Sie diesen Bereich betreten.
+Der Nationalpark beheimatet außerdem zahlreiche Singvogelarten, lauschen Sie dem unglaublichen Durcheinander an Klängen und Liedern der stimmbegabten farbenprächtigen Federtieren."
 
-  pois:
-
-    title: points of interest title
-    items:
-
-      - id: two-first-poi
-        title: Two First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-second-poi
-        title: Two Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-third-poi
-        title: Two Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-fourth-poi
-        title: Two Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-fifth-poi
-        title: Two Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
 
 
 
@@ -71,34 +24,9 @@
 
 
 - id: three
-  title: Section Three
-  nav-title: Three
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
-
-  pois:
-
-    title: points of interest title
-    items:
-
-      - id: three-first-poi
-        title: Three First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: three-second-poi
-        title: Three Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: three-third-poi
-        title: Three Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: three-fourth-poi
-        title: Three Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: three-fifth-poi
-        title: Three Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+  title: Aktivitäten
+  nav-title: Aktivitäten
+  description: "Hier kommt keine Langeweile auf! Zu Fuß, auf Rädern oder mit dem Boot – auf Grenada haben Sie die Qual der Wahl. Dieses karibische Paradies lockt mit vielen sportlichen Aktivitäten. Neben verschiedenen Wandertouren in die üppigen Regenwälder und flotte Jeep Touren durch die Nationalparks oder zu den Kakaoplantagen. Erkunden Sie die Küstenstreifen mit dem Fahrrad oder nehmen an einer spritzigen Crossbike-Tour teil. Wenn Sie das Element Wasser lieben, haben Sie gleich mehrere Disziplinen zur Auswahl: Stürzen Sie sich in die Wildwasser mit den River Tuben oder gleiten mit dem Kayak entlang der Buchten. Entdecken Sie die schillernde Unterwasserwelt der Riffe beim Schnorcheln und Tauchen. Sportangler fangen auf hoher See die dicksten Fische und für Segelfans ist das große das La Source Grenada Sailing Festival ein Muss. Wer nicht selbst mitsegeln kann, sollte das Rennen nicht verpassen."
 
 
 
@@ -107,31 +35,10 @@
 
 
 - id: four
-  title: Section Four
-  nav-title: Four
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+  title: Feste für die Sinne
+  nav-title: Kultur & Veranstaltungen
+  description: "Die Grenader sind so begeistert vom Karneval, dass sie ihn gleich zweimal im Jahr feiern: Einmal zum Rosenmontag und ein weiteres Mal am zweiten Augustwochenende zum Spicemas Festival. Die Parade, mit den wunderschönen und aufwendig gestalteten Kostümen zu den rhythmischen Tänzen, sollten Sie auf keinen Fall verpassen. Für Musikfans bietet die Insel gleich eine Vielzahl an Events und Festivals, über das Jahr verteilt. Lassen Sie sich auf dem Grenada Chocolate Festival von süßen Schokoladenträumen verführen und erleben die hohe Kunst der Chocolatiers. Weitere kulinarische Höhepunkte finden beim jährlichen Flavours of Grenada Festival statt. Mit den Gewürzen der Insel bereiten Spitzenköche neue Gerichte zu und wetteifern um die Gunst der Jury. Das Grenada Sailing Festival begeistert nicht nur Segelfans: Vor der Küste Grenadas liefern sich die besten Segler der Welt ein spektakuläres Rennen."
 
-  pois:
 
-    title: points of interest title
-    items:
 
-      - id: four-first-poi
-        title: Four First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: four-second-poi
-        title: Four Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: four-third-poi
-        title: Four Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: four-fourth-poi
-        title: Four Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: four-fifth-poi
-        title: Four Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+  ################################################################################
