@@ -22,13 +22,13 @@
     max-width: $lg;
     margin-left: auto;
     margin-right: auto;
-    padding-top: $s4;
-    padding-bottom: $s8;
+    padding-top: $s3;
+    padding-bottom: $s7;
     @include bp($bp) {
-      padding-top: $s12;
+      padding-top: $s10;
       padding-left: $s4;
       padding-right: $s4;
-      padding-bottom: $s12;
+      padding-bottom: $s10;
     }
   }
   &__img {

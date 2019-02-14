@@ -2,7 +2,7 @@
 
 $site-nav-height:    56px;
 $site-nav-height-sm: 44px;
-$nav-width-bp:       640px;
+$nav-width-bp:       900px;
 $nav-color:          $white;
 
 
@@ -56,7 +56,7 @@ $nav-color:          $white;
   &__scroll-wrap {
     overflow-x: auto;
     overflow-y: hidden;
-    @include bp($nav-width-bp){ overflow: visible; }
+    @include bp($nav-width-bp){ overflow: visible;  }
   }
   &__wrap {
     display: flex;
@@ -87,9 +87,9 @@ $nav-color:          $white;
     justify-content: center;
     padding-left: $s4;
     padding-right: $s4;
-    font-family: $font-core;
-    font-weight: 700;
-    font-size: 11px;
+    font-family: $font-title-01;
+    font-weight: 800;
+    font-size: 14px;
     letter-spacing: .2em;
     text-transform: uppercase;
     color: $white;

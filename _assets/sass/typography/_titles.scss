@@ -34,7 +34,7 @@
   // custom content headline
   font-family: $font-title-01;
   font-size: $s2; // default size
-  &--lg     { font-size: $s4; }
+  &--lg     { font-size: $s6; }
   &--sm     { font-size: $s0; }
   @include bp($lg){
     font-size: $s3; // default size
@@ -110,10 +110,12 @@
   // custom banner headline
   font-family: $font-title-01;
   text-transform: uppercase;
+  margin-top: -20px;
   line-height: 1.1;
   font-weight: 600;
-  font-size: $s5;
-  @include bp($md){ font-size: $s7; }
+  font-size: $s9;
+  @include bp($md){ font-size: $s10; }
+  @include bp($lg){ font-size: $s12; }
   @include bp($xl){ font-size: $s13; letter-spacing: 1px;}
 
 }

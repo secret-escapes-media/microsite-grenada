@@ -21,8 +21,13 @@
     </div>
 
   </div>
-  <div class="banner__bg-video">
-    <video id="banner-video" src="{{site.img}}/content/video.mp4" height="100%" playsinline loop muted autoplay></video>
+  <div class="banner__bg-video" style="background-image: url('{{site.img}}/content/hero.jpg')">
+  <!--  <video id="banner-video" src="{{site.img}}/content/video.mp4" height="100%" playsinline loop muted autoplay></video> -->
+
+    <video controls poster="{{site.img}}/content/hero.jpg"  playsinline loop muted autoplay>
+      <source src="{{site.img}}/content/video.mp4" type="video/mp4">
+    </video>
+
   </div>
   <div class="banner__nav">
     {% include nav/sections.html %}

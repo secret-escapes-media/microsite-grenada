@@ -4,32 +4,32 @@
 
   <a href="{{offer.link}}" target="_blank">
 
-  <div class="bob   bg-white-mob " >
+  <div class="bob  bg-white-mob  " >
 
       <div class=" bob__img " style="padding:0;">
-          <div class="bg-img bg-img--3-2" style="background-image:url('{{site.img}}/offers/{{offer.id}}.jpg');"></div>
+          <div class="bg-img bg-img--4-3" style="background-image:url('{{site.img}}/offers/{{offer.id}}.jpg');"></div>
       </div>
-      <div class=" bob__text boxpad--lg bg--white" style="" >
-          <h3 class="title title--xs text--bold ">{{offer.title}}</h3>
+      <div class=" bob__text boxpad--lg bg--white"  >
+          <h3 class="title title--sm text--light text--blue" style="letter-spacing: 1px; line-height:2.2rem;">{{offer.title}}</h3>
+          <div class="space--sm"></div>
+          <h4 class="text text--xl text--normal">{{offer.location}}</h4>
           <div class="space--xs"></div>
-          <h4 class=" text--xl">{{offer.location}}</h4>
-          <div class="space--xs"></div>
-          <div class="offer__description text--black text--xl">{{offer.description}}</div>
+          <div class="offer__description text text--black text--lg">{{offer.description}}</div>
           <div class="offer__bottom text--black">
             <div class="offer__bottom-left">
 
               {% if offer.saved %}
                 <div class="offer__saved">
-                  <div class="offer__saved-label bss-lineheight">Sparen Sie bis&nbsp;zu</div>
+                  <div class="offer__saved-label text">Sparen Sie bis&nbsp;zu</div>
                     <div class="space--xs"></div>
-                  <div class="offer__saved-percent bss-bg-color text--xxxl" style="">{{offer.saved}}%</div>
+                  <div class="offer__saved-percent text--xxl" style="">{{offer.saved}}%</div>
                 </div>
                 <div class="offer__separator"></div>
               {% endif %}
 
-              <div class="offer__details text--left">
-                <div>Ab <span class="offer__price bss-font-color-bright">{{offer.price}}€</span></div>
-                <div class="text--sm">{{offer.price-description}}</div>
+              <div class="offer__details text text--left">
+                <div>Ab <span class="offer__price ">{{offer.price}}€</span></div>
+                <div class="text--sm">{{offer.price-description}}<br><br></div>
               </div>
             </div>
             <div class="offer__bottom-right">
